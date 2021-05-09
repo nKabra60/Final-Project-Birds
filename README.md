@@ -8,3 +8,8 @@ All Scripting was done by me, however, credit to the following youtubers for tea
 Dave / GameDevelopment
 Brackeys
 Jimmy Vegas
+
+
+Game Controls:
+Press Space to Jump
+Press Z to Shoot
